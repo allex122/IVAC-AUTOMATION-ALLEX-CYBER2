@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         IVAC SUPPORT GROUP - Allex@cyber2
+// @name         Cyber2- Allex@cyber2
 // @namespace    http://tampermonkey.net/
 // @version      7.4
 // @description  IVAC Automation Tool with Auto Retry - Allex@cyber2
